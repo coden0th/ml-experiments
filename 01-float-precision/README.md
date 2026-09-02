@@ -102,8 +102,6 @@ every time the magnitude doubles.
 
 ## What I got wrong
 
-## What I got wrong
-
 **1. The sqrt(n) prediction turned out roughly right, but not for what I was
 measuring.** For the naive loop the growth does look close to a square root.
 There was a lot of noise in it, and if I had collected many runs with different
