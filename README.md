@@ -25,6 +25,7 @@ Random seeds are fixed and recorded. Every number here should be reproducible.
 | # | Experiment | Status |
 |---|---|---|
 | 01 | Float32 vs float64 accumulation error | done |
+| 02 | Summation order | done |
 
 ## On AI assistance
 
